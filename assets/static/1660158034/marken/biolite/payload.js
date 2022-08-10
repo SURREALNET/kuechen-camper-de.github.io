@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/biolite", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/biolite-campstove-2-biolite-5637913168.jpg":"\u002Fassets\u002Fimages\u002Fbiolite-campstove-2-biolite-5637913168.webp"}}],fetch:{},mutations:void 0});

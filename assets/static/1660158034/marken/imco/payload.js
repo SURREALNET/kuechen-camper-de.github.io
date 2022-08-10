@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/imco", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/imco-feuerzeugbenzin-imco-5637277446.jpg":"\u002Fassets\u002Fimages\u002Fimco-feuerzeugbenzin-imco-5637277446.webp"}}],fetch:{},mutations:void 0});

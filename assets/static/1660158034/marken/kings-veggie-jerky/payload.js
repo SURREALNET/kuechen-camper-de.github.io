@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/kings-veggie-jerky", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kings-veggie-jerky-kings-veggie-jerky-trockenfruechte-kings-veggie-jerky-5637819605.jpg":"\u002Fassets\u002Fimages\u002Fkings-veggie-jerky-kings-veggie-jerky-trockenfruechte-kings-veggie-jerky-5637819605.webp"}}],fetch:{},mutations:void 0});

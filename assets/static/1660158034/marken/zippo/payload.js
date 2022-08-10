@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/zippo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/zippo-benzin-125ml-zippo-5637185155.jpg":"\u002Fassets\u002Fimages\u002Fzippo-benzin-125ml-zippo-5637185155.webp"}}],fetch:{},mutations:void 0});

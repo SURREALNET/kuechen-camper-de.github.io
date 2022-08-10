@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/true-utility", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/true-utility-tu248k-twist-stick-schluesselanhaenger-true-utility-5637768661.png":"\u002Fassets\u002Fimages\u002Ftrue-utility-tu248k-twist-stick-schluesselanhaenger-true-utility-5637768661.webp"}}],fetch:{},mutations:void 0});

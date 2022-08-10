@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/munkees", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/munkees-karabiner-mit-flaschentraeger-munkees-5637836999.jpg":"\u002Fassets\u002Fimages\u002Fmunkees-karabiner-mit-flaschentraeger-munkees-5637836999.webp"}}],fetch:{},mutations:void 0});

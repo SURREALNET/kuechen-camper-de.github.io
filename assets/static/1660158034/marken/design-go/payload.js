@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/design-go", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/design-go-reise-wasserkocher-design-go-5637253593.jpg":"\u002Fassets\u002Fimages\u002Fdesign-go-reise-wasserkocher-design-go-5637253593.webp"}}],fetch:{},mutations:void 0});

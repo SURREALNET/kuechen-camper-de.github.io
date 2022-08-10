@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/swiss-advance", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/swiss-advance-classic-salz-pfeffer-swiss-advance-5637204178.jpg":"\u002Fassets\u002Fimages\u002Fswiss-advance-classic-salz-pfeffer-swiss-advance-5637204178.webp"}}],fetch:{},mutations:void 0});

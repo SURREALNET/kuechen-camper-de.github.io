@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/zebra", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/zebra-edelstahlbecher-zebra-04-l-campinggeschirr-zebra-5637185837.jpg":"\u002Fassets\u002Fimages\u002Fzebra-edelstahlbecher-zebra-04-l-campinggeschirr-zebra-5637185837.webp"}}],fetch:{},mutations:void 0});
