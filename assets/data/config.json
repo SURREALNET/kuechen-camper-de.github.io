@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "kuechen-camper.de",
+    "hostname": "https://www.kuechen-camper.de/",
+    "email": "kuechen-camper.de@surrealnetworks.io",
+    "organization": "kuechen-camper.de",
+    "logoText": "kuechen-camper.de",
+    "title": "Camping Küchenzubehör",
+    "subline": "Outdoor Küchenzubehör für dein Camping Erlebnis",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,120 +14,125 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5637823969",
+        "5637692827",
+        "5637547929"
+    ],
+    "winnerProducts": [
+        "5637823969",
+        "5637861121",
+        "5637547861"
+    ],
+    "featuredCategories": [
+        "Thermoflaschen",
+        "Trinkflaschen",
+        "Thermobecher",
+        "Kocher",
+        "Kühlboxen und Kühltaschen",
+        "Grillen und Picknick"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
         "Material",
+        "Beständigkeit",
         "Komfort",
-        "Funktion",
-        "Haltbarkeit"
+        "Funktionalität",
+        "Reinigungsmöglichkeit"
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
+        "mainKeyword": "Camping Küchenzubehör",
+        "featureText": "<p>Benötigst du das richtige Zubehör für das Kochen beim Camping? Wir, das Team von Küchen-Camper, helfen dir dabei, die richtigen Artikel u finden, damit das kochen im Outdoor Bereich mindestens genau so viel Spaß macht wie in der Hausküche..</p><p>In unserem <a href=\"/shop/\" title=\"Outdoor Kochen Shop\">Online Shop</a> findest du alle notwendigen Artikel wie Gaskocher, Campinggeschirr, Thermoflaschen, Kühlboxe, uvm.</p><p>Wir bieten in unserem Shop ausschließlich bewährte Produkte von renommierten Herstellern an.</p><p>Wir wünschen dir viel Spaß beim shoppen!</p>",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "title": "Produkte für das Kochen beim Camping",
+            "metaDescription": "Auf Küchen Camper findest du alle Produkte die du für das Kochen im Camping-Bereich benötigst. Campingkocher, Campinggeschirr, Thermoflaschen, und vieles mehr.",
+            "robots": "index, follow"
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Shop für Camping Kocher",
+            "metaDescription": "Online Shop für das Kochen im Outdoor-Bereich. Sortiert nach Kategorien. Top Produkte zum bestmöglichen Preis. Produkte auf Lager. Jetzt online bestellen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Hersteller für Küchenartikel im Camping Bereich",
+            "metaDescription": "Auf unserer Seite findest du eine Liste aller Anbieter für Koch-Zubehör im Outdoorbereich. Wir führen Marken wie Tatonka, Campingaz, FRILUFTS, uvm.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "defaultTitle": "$PRODUKT | Outdoor Küchenzubehör",
+        "defaultMetaDescription": "$PRODUKT online bestellen für dein Outdoor Kocherlebnis. Best-Preis-Garantie. Alle Produkte auf Lager.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "defaultTitle": "$KATEGORIE | Outdoor Küchenzubehör",
+        "defaultMetaDescription": "Alle Produkte aus der Kategorie $KATEGORIE. Ausschließlich getestete $KATEGORIE Artikel zu günstigen Preisen im Internet bestellen. Produke auf Lager.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "defaultTitle": "$HERSTELLER | Outdoor Küchenzubehör",
+        "defaultMetaDescription": "Alle Produkte vom Anbieter $HERSTELLER findest du günstig in unserem Online Shop. Damit du beim Camping vernünftig kochen kannst. Alle Produkte auf Lager.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Kochen beim Camping",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Outdoor Kochzubehör Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Outdoor Kochzubehör Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
     ]
