@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/tycoon", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tycoon-premium-butane-gas-gaskartusche-tycoon-5637196118.jpg":"\u002Fassets\u002Fimages\u002Ftycoon-premium-butane-gas-gaskartusche-tycoon-5637196118.webp"}}],fetch:{},mutations:void 0});

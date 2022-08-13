@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/eckla", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eckla-eckla-express-handcart-eckla-5637949476.jpg":"\u002Fassets\u002Fimages\u002Feckla-eckla-express-handcart-eckla-5637949476.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/steripen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/steripen-steripen-ultralighttm-uv-water-purifier-trinkwasserfilter-steripen-5637433517.jpg":"\u002Fassets\u002Fimages\u002Fsteripen-steripen-ultralighttm-uv-water-purifier-trinkwasserfilter-steripen-5637433517.webp"}}],fetch:{},mutations:void 0});

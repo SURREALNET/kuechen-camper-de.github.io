@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/lotusgrill", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lotusgrill-sicherheitsbrennpaste-feuerstarter-lotusgrill-5637299751.jpg":"\u002Fassets\u002Fimages\u002Flotusgrill-sicherheitsbrennpaste-feuerstarter-lotusgrill-5637299751.webp"}}],fetch:{},mutations:void 0});

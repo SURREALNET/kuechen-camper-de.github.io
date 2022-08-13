@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/jaerv-outdoor", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jaerv-outdoor-helags-oak-wood-thermokanne-jaerv-outdoor-5637833226.jpg":"\u002Fassets\u002Fimages\u002Fjaerv-outdoor-helags-oak-wood-thermokanne-jaerv-outdoor-5637833226.webp"}}],fetch:{},mutations:void 0});

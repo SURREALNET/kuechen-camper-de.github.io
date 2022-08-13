@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/dometic", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dometic-dometic-ck-40d-hybrid-12-230v-kuehlbox-dometic-5637927204.tif":"\u002Fassets\u002Fimages\u002Fdometic-dometic-ck-40d-hybrid-12-230v-kuehlbox-dometic-5637927204.webp"}}],fetch:{},mutations:void 0});

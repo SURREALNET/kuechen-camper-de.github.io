@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/scrubba", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/scrubba-reisewaschmaschine-wash-bag-mini-wassersack-scrubba-5637887137.jpg":"\u002Fassets\u002Fimages\u002Fscrubba-reisewaschmaschine-wash-bag-mini-wassersack-scrubba-5637887137.webp"}}],fetch:{},mutations:void 0});

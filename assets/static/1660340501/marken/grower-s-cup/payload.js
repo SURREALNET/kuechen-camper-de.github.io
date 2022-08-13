@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/grower-s-cup", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/grower-s-cup-easy-serve-grower-s-cup-5637279907.jpg":"\u002Fassets\u002Fimages\u002Fgrower-s-cup-easy-serve-grower-s-cup-5637279907.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ejendals", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ejendals-grillhandschuh-handschuhe-ejendals-5637261989.jpg":"\u002Fassets\u002Fimages\u002Fejendals-grillhandschuh-handschuhe-ejendals-5637261989.webp"}}],fetch:{},mutations:void 0});

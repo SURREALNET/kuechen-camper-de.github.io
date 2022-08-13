@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/baladeo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baladeo-besteckset-basecamp-schwarz-campinggeschirr-baladeo-5637239911.jpg":"\u002Fassets\u002Fimages\u002Fbaladeo-besteckset-basecamp-schwarz-campinggeschirr-baladeo-5637239911.webp"}}],fetch:{},mutations:void 0});

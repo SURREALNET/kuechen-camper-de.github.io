@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ooni", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ooni-koda-12-gas-pizzaofen-ooni-5637940391.jpg":"\u002Fassets\u002Fimages\u002Fooni-koda-12-gas-pizzaofen-ooni-5637940391.webp"}}],fetch:{},mutations:void 0});
