@@ -1,7 +1,7 @@
 {
     "configIsReady": true,
     "domain": "kuechen-camper.de",
-    "hostname": "https://www.kuechen-camper.de/",
+    "hostname": "https://www.kuechen-camper.de",
     "email": "kuechen-camper.de@surrealnetworks.io",
     "organization": "kuechen-camper.de",
     "logoText": "kuechen-camper.de",
@@ -65,53 +65,46 @@
         "defaultTitle": "$PRODUKT | Outdoor Küchenzubehör",
         "defaultMetaDescription": "$PRODUKT online bestellen für dein Outdoor Kocherlebnis. Best-Preis-Garantie. Alle Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Outdoor Küchenzubehör",
         "defaultMetaDescription": "Alle Produkte aus der Kategorie $KATEGORIE. Ausschließlich getestete $KATEGORIE Artikel zu günstigen Preisen im Internet bestellen. Produke auf Lager.",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow"
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | Outdoor Küchenzubehör",
         "defaultMetaDescription": "Alle Produkte vom Anbieter $HERSTELLER findest du günstig in unserem Online Shop. Damit du beim Camping vernünftig kochen kannst. Alle Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Kochen beim Camping",
