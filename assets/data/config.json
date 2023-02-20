@@ -48,7 +48,60 @@
         "index": {
             "title": "Produkte für das Kochen beim Camping",
             "metaDescription": "Auf Küchen Camper findest du alle Produkte die du für das Kochen im Camping-Bereich benötigst. Campingkocher, Campinggeschirr, Thermoflaschen, und vieles mehr.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Willkommen bei Küchen-Camper!",
+                    "text": "Küchen-Camper ist Ihr Online-Shop für Camping-Küchenzubehör. Wir bieten eine breite Auswahl an Produkten für Ihre nächste Outdoor-Abenteuer. Unsere Kategorien reichen von Thermoflaschen und Trinkflaschen über Grill- und Picknickzubehör bis hin zu Campingtöpfen und Geschirr. Entdecken Sie jetzt unser Sortiment!"
+                },
+                {
+                    "title": "Thermoflaschen",
+                    "text": "Halten Sie Ihre Getränke auch unterwegs warm oder kalt mit unseren hochwertigen <a href=\"/kategorie/thermoflaschen/\" title=\"Thermoflaschen\">Thermoflaschen</a>. Wählen Sie aus einer Vielzahl von Größen und Farben. Ideal für Camping, Wandern oder den täglichen Gebrauch."
+                },
+                {
+                    "title": "Grillen und Picknick",
+                    "text": "Machen Sie Ihr nächstes Outdoor-Erlebnis zu einem kulinarischen Abenteuer mit unserem Grill- und Picknickzubehör. Wir bieten eine große Auswahl an Grills, Picknickdecken und Zubehör für ein perfektes Essen unter freiem Himmel."
+                },
+                {
+                    "title": "Verpflegung",
+                    "text": "Sorgen Sie für ausreichende <a href=\"/kategorie/verpflegung/\" title=\"Verpflegung\">Verpflegung</a> auf Ihren Abenteuern mit unserer Verpflegungskategorie. Wir bieten Energieriegel, Snacks und Trockenfrüchte, Getränke, Trekkingnahrung, Gewürze und vieles mehr. Alles, was Sie für Ihre Reise brauchen."
+                },
+                {
+                    "title": "Campingtöpfe und Campinggeschirr",
+                    "text": "Mit unseren Campingtöpfen und Campinggeschirr sind Sie perfekt ausgestattet für Ihre nächste Outdoor-Tour. Wir bieten Töpfe, Pfannen, Kessel, Dosen und Kanister, Becher, Teller und Schalen, Besteck, Küchenzubehör und vieles mehr."
+                },
+                {
+                    "title": "Trinkflaschen",
+                    "text": "Halten Sie Ihren Durst unterwegs im Zaum mit unseren hochwertigen <a href=\"/kategorie/trinkflaschen/\" title=\"Trinkflaschen\">Trinkflaschen</a>. Wir bieten eine große Auswahl an Größen und Farben, alle aus langlebigen Materialien gefertigt, damit Sie Ihre Flasche lange benutzen können."
+                },
+                {
+                    "title": "Thermobehälter",
+                    "text": "Halten Sie Ihre Lebensmittel und Getränke auf Reisen frisch mit unseren <a href=\"/kategorie/thermobehaelter/\" title=\"Thermobehälter\">Thermobehälter</a>n. Wir bieten eine große Auswahl an Größen und Farben, alle aus hochwertigen Materialien gefertigt, um sicherzustellen, dass Ihre Lebensmittel und Getränke so lange wie möglich frisch bleiben."
+                },
+                {
+                    "title": "Kaffee unterwegs",
+                    "text": "Genießen Sie Ihren Kaffee auch unterwegs mit unseren praktischen Kaffee-Lösungen für unterwegs. Wir bieten Thermobecher, Kaffee-Kocher und Zubehör für Ihre nächste Reise oder den täglichen Gebrauch."
+                },
+                {
+                    "title": "Thermobecher",
+                    "text": "Halten Sie Ihren Kaffee oder Tee den ganzen Tag über warm mit unseren hochwertigen <a href=\"/kategorie/thermobecher/\" title=\"Thermobecher\">Thermobecher</a>n. Wir bieten eine große Auswahl an Größen und Farben, alle aus langlebigen Materialien gefertigt, um sicherzustellen, dass Sie Ihren Becher lange benutzen können."
+                },
+                {
+                    "title": "Kühlboxen und Kühltaschen",
+                    "text": "Halten Sie Ihre Lebensmittel und Getränke auf Reisen kühl mit unseren <a href=\"/kategorie/kuehlboxen-und-kuehltaschen/\" title=\"Kühlboxen und Kühltaschen\">Kühlboxen und Kühltaschen</a>. Wir bieten eine große Auswahl an Größen und Farben, alle aus hochwertigen Materialien gefertigt, um sicherzustellen, dass Ihre Lebensmittel und Getränke so lange wie möglich kühl bleiben."
+                },
+                {
+                    "title": "Kocher",
+                    "text": "Kochen Sie unterwegs mit unseren hochwertigen <a href=\"/kategorie/kocher/\" title=\"Kocher\">Kochern</a>. Wir bieten eine große Auswahl an Gaskochern, Mehrstoffkochern, Sturmkochern und Spirituskochern, sowie Kocherzubehör und Brennstoffe. Alles, was Sie für Ihre nächste Outdoor-Tour brauchen."
+                },
+                {
+                    "title": "Trinkwasseraufbereitung",
+                    "text": "Sichern Sie sich auf Reisen eine ausreichende Trinkwasserversorgung mit unseren <a href=\"/kategorie/trinkwasseraufbereitung/\" title=\"Trinkwasseraufbereitung\">Trinkwasseraufbereitungslösungen</a>. Wir bieten Wasserfilter, -behandlungstabletten und -systeme für Ihre nächste Outdoor-Tour."
+                },
+                {
+                    "title": "Vielen Dank für Ihren Besuch bei Küchen-Camper!",
+                    "text": "Vielen Dank für Ihren Besuch bei Küchen-Camper. Wir hoffen, dass Sie alles finden, was Sie für Ihr nächstes Outdoor-Abenteuer benötigen. Sollten Sie Fragen oder Anregungen haben, stehen wir Ihnen gerne zur Verfügung. Vielen Dank, dass Sie Teil unserer Community sind!"
+                }
+            ]
         },
         "shop": {
             "title": "Shop für Camping Kocher",
