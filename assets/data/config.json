@@ -49,59 +49,123 @@
             "title": "Produkte für das Kochen beim Camping",
             "metaDescription": "Auf Küchen Camper findest du alle Produkte die du für das Kochen im Camping-Bereich benötigst. Campingkocher, Campinggeschirr, Thermoflaschen, und vieles mehr.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Willkommen bei Küchen-Camper!",
-                    "text": "Küchen-Camper ist Ihr Online-Shop für Camping-Küchenzubehör. Wir bieten eine breite Auswahl an Produkten für Ihre nächste Outdoor-Abenteuer. Unsere Kategorien reichen von Thermoflaschen und Trinkflaschen über Grill- und Picknickzubehör bis hin zu Campingtöpfen und Geschirr. Entdecken Sie jetzt unser Sortiment!"
-                },
-                {
-                    "title": "Thermoflaschen",
-                    "text": "Halten Sie Ihre Getränke auch unterwegs warm oder kalt mit unseren hochwertigen <a href=\"/kategorie/thermoflaschen/\" title=\"Thermoflaschen\">Thermoflaschen</a>. Wählen Sie aus einer Vielzahl von Größen und Farben. Ideal für Camping, Wandern oder den täglichen Gebrauch."
-                },
-                {
-                    "title": "Grillen und Picknick",
-                    "text": "Machen Sie Ihr nächstes Outdoor-Erlebnis zu einem kulinarischen Abenteuer mit unserem Grill- und Picknickzubehör. Wir bieten eine große Auswahl an Grills, Picknickdecken und Zubehör für ein perfektes Essen unter freiem Himmel."
-                },
-                {
-                    "title": "Verpflegung",
-                    "text": "Sorgen Sie für ausreichende <a href=\"/kategorie/verpflegung/\" title=\"Verpflegung\">Verpflegung</a> auf Ihren Abenteuern mit unserer Verpflegungskategorie. Wir bieten Energieriegel, Snacks und Trockenfrüchte, Getränke, Trekkingnahrung, Gewürze und vieles mehr. Alles, was Sie für Ihre Reise brauchen."
-                },
-                {
-                    "title": "Campingtöpfe und Campinggeschirr",
-                    "text": "Mit unseren Campingtöpfen und Campinggeschirr sind Sie perfekt ausgestattet für Ihre nächste Outdoor-Tour. Wir bieten Töpfe, Pfannen, Kessel, Dosen und Kanister, Becher, Teller und Schalen, Besteck, Küchenzubehör und vieles mehr."
-                },
-                {
-                    "title": "Trinkflaschen",
-                    "text": "Halten Sie Ihren Durst unterwegs im Zaum mit unseren hochwertigen <a href=\"/kategorie/trinkflaschen/\" title=\"Trinkflaschen\">Trinkflaschen</a>. Wir bieten eine große Auswahl an Größen und Farben, alle aus langlebigen Materialien gefertigt, damit Sie Ihre Flasche lange benutzen können."
-                },
-                {
-                    "title": "Thermobehälter",
-                    "text": "Halten Sie Ihre Lebensmittel und Getränke auf Reisen frisch mit unseren <a href=\"/kategorie/thermobehaelter/\" title=\"Thermobehälter\">Thermobehälter</a>n. Wir bieten eine große Auswahl an Größen und Farben, alle aus hochwertigen Materialien gefertigt, um sicherzustellen, dass Ihre Lebensmittel und Getränke so lange wie möglich frisch bleiben."
-                },
-                {
-                    "title": "Kaffee unterwegs",
-                    "text": "Genießen Sie Ihren Kaffee auch unterwegs mit unseren praktischen Kaffee-Lösungen für unterwegs. Wir bieten Thermobecher, Kaffee-Kocher und Zubehör für Ihre nächste Reise oder den täglichen Gebrauch."
-                },
-                {
-                    "title": "Thermobecher",
-                    "text": "Halten Sie Ihren Kaffee oder Tee den ganzen Tag über warm mit unseren hochwertigen <a href=\"/kategorie/thermobecher/\" title=\"Thermobecher\">Thermobecher</a>n. Wir bieten eine große Auswahl an Größen und Farben, alle aus langlebigen Materialien gefertigt, um sicherzustellen, dass Sie Ihren Becher lange benutzen können."
-                },
-                {
-                    "title": "Kühlboxen und Kühltaschen",
-                    "text": "Halten Sie Ihre Lebensmittel und Getränke auf Reisen kühl mit unseren <a href=\"/kategorie/kuehlboxen-und-kuehltaschen/\" title=\"Kühlboxen und Kühltaschen\">Kühlboxen und Kühltaschen</a>. Wir bieten eine große Auswahl an Größen und Farben, alle aus hochwertigen Materialien gefertigt, um sicherzustellen, dass Ihre Lebensmittel und Getränke so lange wie möglich kühl bleiben."
-                },
-                {
-                    "title": "Kocher",
-                    "text": "Kochen Sie unterwegs mit unseren hochwertigen <a href=\"/kategorie/kocher/\" title=\"Kocher\">Kochern</a>. Wir bieten eine große Auswahl an Gaskochern, Mehrstoffkochern, Sturmkochern und Spirituskochern, sowie Kocherzubehör und Brennstoffe. Alles, was Sie für Ihre nächste Outdoor-Tour brauchen."
-                },
-                {
-                    "title": "Trinkwasseraufbereitung",
-                    "text": "Sichern Sie sich auf Reisen eine ausreichende Trinkwasserversorgung mit unseren <a href=\"/kategorie/trinkwasseraufbereitung/\" title=\"Trinkwasseraufbereitung\">Trinkwasseraufbereitungslösungen</a>. Wir bieten Wasserfilter, -behandlungstabletten und -systeme für Ihre nächste Outdoor-Tour."
-                },
-                {
-                    "title": "Vielen Dank für Ihren Besuch bei Küchen-Camper!",
-                    "text": "Vielen Dank für Ihren Besuch bei Küchen-Camper. Wir hoffen, dass Sie alles finden, was Sie für Ihr nächstes Outdoor-Abenteuer benötigen. Sollten Sie Fragen oder Anregungen haben, stehen wir Ihnen gerne zur Verfügung. Vielen Dank, dass Sie Teil unserer Community sind!"
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Küchen-Camper",
+                        "text": "Herzlich Willkommen auf Küchen-Camper, Ihrem Online-Shop für hochwertiges Camping Küchenzubehör. Ob Sie auf einer Campingreise, beim Wandern oder einfach bei einem Picknick im Park sind, wir haben alles, was Sie für eine angenehme Zeit im Freien benötigen. Unser Sortiment umfasst Thermoflaschen, Grill- und Picknickzubehör, Verpflegung, Campingtöpfe und -geschirr, Trinkflaschen, Thermobehälter, Kaffee-Unterwegs-Lösungen, Thermobecher, Kühlboxen und -taschen, Kocher und Zubehör, Trinkwasseraufbereitung und vieles mehr. Wir bieten Ihnen eine breite Auswahl an Produkten von renommierten Marken zu attraktiven Preisen. Unsere Produkte sind robust, langlebig und einfach zu transportieren, so dass Sie jederzeit und überall Ihre Mahlzeiten und Getränke genießen können. Mit unseren praktischen Lösungen können Sie Ihre Abenteuer im Freien unbesorgt genießen und sich auf das Wesentliche konzentrieren - das Erleben von Natur, Abenteuer und Freiheit. Stöbern Sie durch unsere Kategorien, entdecken Sie neue Ideen und lassen Sie sich von unserem Angebot inspirieren.Wir sind stolz darauf, Ihnen einen erstklassigen Kundenservice zu bieten. Unser Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen oder Bedenken zu helfen. Bestellen Sie noch heute Ihr Camping Küchenzubehör bei Küchen-Camper und bereiten Sie sich auf Ihr nächstes Abenteuer im Freien vor."
+                    },
+                    {
+                        "title": "Thermoflaschen",
+                        "text": "<a href=\"/kategorie/thermoflaschen/\" title=\"Thermoflaschen\">Thermoflaschen</a> sind ein unverzichtbares Camping-Zubehör, insbesondere für Abenteuerlustige und Camper. Unsere hochwertigen Thermoflaschen halten Ihre Getränke und Speisen lange Zeit warm oder kalt. Ob für eine Wanderung, einen Strandtag oder einen Campingausflug - mit unseren Thermoflaschen sind Sie bestens vorbereitet. Entdecken Sie jetzt unser vielfältiges Angebot an Thermoflaschen in verschiedenen Größen, Farben und Designs."
+                    },
+                    {
+                        "title": "Grillen und Picknick",
+                        "text": "Ein gelungenes Camping-Erlebnis ohne <a href=\"/kategorie/grillen-und-picknick/\" title=\"Grillen und Picknick\">Grillen und Picknick</a> ist kaum vorstellbar. Entdecken Sie bei uns eine große Auswahl an hochwertigen Grills, Picknick-Sets und Zubehör. Ob Holzkohle- oder Gasgrill, hier finden Sie alles, was Sie für ein unvergessliches Grill-Erlebnis im Freien benötigen. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Set für Ihr nächstes Outdoor-Abenteuer."
+                    },
+                    {
+                        "title": "Verpflegung",
+                        "text": "Eine ausgewogene <a href=\"/kategorie/verpflegung/\" title=\"Verpflegung\">Verpflegung</a> ist bei einem Camping-Ausflug von großer Bedeutung. Unsere Produkte für die Verpflegung bieten Ihnen alles, was Sie für eine abwechslungsreiche und gesunde Ernährung benötigen. Von Lunchboxen über Camping-Besteck bis hin zu Taschen für Lebensmittel, hier finden Sie alles, was Sie für eine unbeschwerte und komfortable Verpflegung benötigen. Stöbern Sie jetzt durch unser vielfältiges Angebot an Verpflegungs-Produkten."
+                    },
+                    {
+                        "title": "Energieriegel",
+                        "text": "<a href=\"/kategorie/energieriegel/\" title=\"Energieriegel\">Energieriegel</a> sind ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bieten schnelle Energie und sind leicht zu transportieren. Unsere Energieriegel sind aus hochwertigen Zutaten hergestellt und bieten eine ausgewogene Ernährung. Ob für eine Wanderung, einen Sportausflug oder einfach als Snack zwischendurch - mit unseren Energieriegeln sind Sie immer bestens vorbereitet. Entdecken Sie jetzt unser vielfältiges Angebot an Energieriegeln in verschiedenen Geschmacksrichtungen."
+                    },
+                    {
+                        "title": "Snacks und Trockenfrüchte",
+                        "text": "<a href=\"/kategorie/snacks-und-trockenfruechte/\" title=\"Snacks und Trockenfrüchte\">Snacks und Trockenfrüchte</a> sind eine gesunde und bequeme Alternative für unterwegs. Unsere Produkte sind aus hochwertigen Zutaten hergestellt und bieten eine abwechslungsreiche Ernährung. Ob für eine Wanderung, einen Sportausflug oder einfach als Snack zwischendurch - mit unseren Snacks und Trockenfrüchten sind Sie immer bestens vorbereitet. Entdecken Sie jetzt unser vielfältiges Angebot an Snacks und Trockenfrüchten in verschiedenen Geschmacksrichtungen."
+                    },
+                    {
+                        "title": "Getränke",
+                        "text": "<a href=\"/kategorie/getraenke/\" title=\"Getränke\">Getränke</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten nicht nur Erfrischung, sondern auch wichtige Nährstoffe und Energie. Unsere Getränke sind aus hochwertigen Zutaten hergestellt und bieten eine ausgewogene Ernährung. Ob für eine Wanderung, einen Sportausflug oder einfach als Durstlöscher zwischendurch - mit unseren Getränken sind Sie immer bestens vorbereitet. Entdecken Sie jetzt unser vielfältiges Angebot an Getränken in verschiedenen Geschmacksrichtungen."
+                    },
+                    {
+                        "title": "Trekkingnahrung",
+                        "text": "<a href=\"/kategorie/trekkingnahrung/\" title=\"Trekkingnahrung\">Trekkingnahrung</a> ist ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bietet schnelle Energie und ist leicht zu transportieren. Unsere Trekkingnahrung ist aus hochwertigen Zutaten hergestellt und bietet eine ausgewogene Ernährung. Ob für eine Wanderung, einen Sportausflug oder einfach als Snack zwischendurch - mit unserer Trekkingnahrung sind Sie immer bestens vorbereitet. Entdecken Sie jetzt unser vielfältiges Angebot an Trekkingnahrung in verschiedenen Geschmacksrichtungen."
+                    },
+                    {
+                        "title": "Gewürze",
+                        "text": "<a href=\"/kategorie/gewuerze/\" title=\"Gewürze\">Gewürze</a> sind ein wichtiger Bestandteil jeder Camping-Küche. Sie verleihen Ihren Gerichten eine besondere Note und machen das Camping-Erlebnis zu einem kulinarischen Abenteuer. Unsere Gewürze sind aus hochwertigen Zutaten hergestellt und bieten eine abwechslungsreiche Geschmacksvielfalt. Entdecken Sie jetzt unser vielfältiges Angebot an Gewürzen in verschiedenen Geschmacksrichtungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Campingtöpfe und Campinggeschirr",
+                        "text": "<a href=\"/kategorie/campingtoepfe-und-campinggeschirr/\" title=\"Campingtöpfe und Campinggeschirr\">Campingtöpfe und Campinggeschirr</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten alles, was Sie für eine komfortable und einfache Verpflegung benötigen. Unsere Campingtöpfe und Campinggeschirr sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Campingtöpfen und Campinggeschirr in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Dosen und Kanister",
+                        "text": "<a href=\"/kategorie/dosen-und-kanister/\" title=\"Dosen und Kanister\">Dosen und Kanister</a> sind ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bieten eine sichere Aufbewahrung für Lebensmittel und Getränke und sind leicht zu transportieren. Unsere Dosen und Kanister sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Dosen und Kanistern in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Becher",
+                        "text": "<a href=\"/kategorie/becher/\" title=\"Becher\">Becher</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Getränke zu trinken und sind leicht zu transportieren. Unsere Becher sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Bechern in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Teller und Schalen",
+                        "text": "<a href=\"/kategorie/teller-und-schalen/\" title=\"Teller und Schalen\">Teller und Schalen</a> sind ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Mahlzeiten zu servieren und sind leicht zu transportieren. Unsere Teller und Schalen sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Tellern und Schalen in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Besteck",
+                        "text": "<a href=\"/kategorie/besteck/\" title=\"Besteck\">Besteck</a> ist ein wichtiger Bestandteil jeder Camping-Ausrüstung. Es ermöglicht eine bequeme Verpflegung und ist leicht zu transportieren. Unser Besteck ist aus hochwertigen Materialien hergestellt und bietet eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Besteck in verschiedenen Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Küchenzubehör",
+                        "text": "<a href=\"/kategorie/kuechenzubehoer/\" title=\"Küchenzubehör\">Küchenzubehör</a> ist ein wichtiger Bestandteil jeder Camping-Ausrüstung. Es ermöglicht eine bequeme und effiziente Verpflegung und ist leicht zu transportieren. Unser Küchenzubehör ist aus hochwertigen Materialien hergestellt und bietet eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Küchenzubehör in verschiedenen Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Töpfe, Pfannen und Kessel",
+                        "text": "<a href=\"/kategorie/toepfe,-pfannen-und-kessel/\" title=\"Töpfe, Pfannen und Kessel\">Töpfe, Pfannen und Kessel</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten alles, was Sie für eine komfortable und einfache Verpflegung benötigen. Unsere Töpfe, Pfannen und Kessel sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Töpfen, Pfannen und Kesseln in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Trinkflaschen",
+                        "text": "<a href=\"/kategorie/trinkflaschen/\" title=\"Trinkflaschen\">Trinkflaschen</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Getränke unterwegs mitzunehmen und sind leicht zu transportieren. Unsere Trinkflaschen sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Trinkflaschen in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Thermobehälter",
+                        "text": "<a href=\"/kategorie/thermobehaelter/\" title=\"Thermobehälter\">Thermobehälter</a> sind ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Lebensmittel und Getränke auf Temperatur zu halten und sind leicht zu transportieren. Unsere Thermobehälter sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Thermobehältern in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Kaffee unterwegs",
+                        "text": "<a href=\"/kategorie/kaffee-unterwegs/\" title=\"Kaffee unterwegs\">Kaffee unterwegs</a> ist ein wichtiger Bestandteil jeder Camping-Ausrüstung für Kaffeeliebhaber. Es bietet eine praktische Möglichkeit, Kaffee unterwegs zu genießen und ist leicht zu transportieren. Unser Angebot an Kaffee unterwegs umfasst hochwertige Kaffeemaschinen und Zubehör. Entdecken Sie jetzt unser vielfältiges Angebot und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis mit frisch gebrühtem Kaffee vor."
+                    },
+                    {
+                        "title": "Thermobecher",
+                        "text": "<a href=\"/kategorie/thermobecher/\" title=\"Thermobecher\">Thermobecher</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, heiße Getränke unterwegs zu genießen und sind leicht zu transportieren. Unsere Thermobecher sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Thermobechern in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Kühlboxen und Kühltaschen",
+                        "text": "<a href=\"/kategorie/kuehlboxen-und-kuehltaschen/\" title=\"Kühlboxen und Kühltaschen\">Kühlboxen und Kühltaschen</a> sind ein wichtiger Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Lebensmittel und Getränke auf Temperatur zu halten und sind leicht zu transportieren. Unsere Kühlboxen und Kühltaschen sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Kühlboxen und Kühltaschen in verschiedenen Größen und Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Kocher",
+                        "text": "<a href=\"/kategorie/kocher/\" title=\"Kocher\">Kocher</a> sind ein unverzichtbarer Bestandteil jeder Camping-Ausrüstung. Sie bieten eine praktische Möglichkeit, Essen unterwegs zu kochen und sind leicht zu transportieren. Unsere Kocher sind aus hochwertigen Materialien hergestellt und bieten eine lange Haltbarkeit. Entdecken Sie jetzt unser vielfältiges Angebot an Kochern in verschiedenen Ausführungen und bereiten Sie sich auf Ihr nächstes Camping-Erlebnis vor."
+                    },
+                    {
+                        "title": "Kocherzubehör",
+                        "text": "Das <a href=\"/kategorie/kocherzubehoer/\" title=\"Kocherzubehör\">Kocherzubehör</a> ist ein wichtiger Bestandteil für ein erfolgreiches Campingerlebnis. Unsere breite Auswahl an Kocherzubehör bietet alles, was Sie für Ihre Campingküche benötigen. Von Pfannen und Töpfen bis hin zu Besteck und Geschirr haben wir alles im Angebot. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    },
+                    {
+                        "title": "Brennstoffe und Brennstoffflaschen",
+                        "text": "<a href=\"/kategorie/brennstoffe-und-brennstoffflaschen/\" title=\"Brennstoffe und Brennstoffflaschen\">Brennstoffe und Brennstoffflaschen</a> sind unverzichtbar für den Betrieb Ihres Campingkochers. Unser Angebot umfasst eine breite Auswahl an Brennstoffen und Brennstoffflaschen, die für jedes Bedürfnis geeignet sind. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    },
+                    {
+                        "title": "Gaskocher",
+                        "text": "<a href=\"/kategorie/gaskocher/\" title=\"Gaskocher\">Gaskocher</a> sind eine praktische und einfache Möglichkeit, Essen und Getränke unterwegs zu kochen. Unser Angebot umfasst eine breite Auswahl an Gaskochern in verschiedenen Größen und Ausführungen, die für jedes Bedürfnis geeignet sind. Entdecken Sie jetzt unser vielfältiges Angebot an Gaskochern und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    },
+                    {
+                        "title": "Mehrstoffkocher",
+                        "text": "<a href=\"/kategorie/mehrstoffkocher/\" title=\"Mehrstoffkocher\">Mehrstoffkocher</a> sind eine praktische und vielseitige Lösung für Campingkocher. Unser Sortiment umfasst eine breite Auswahl an Mehrstoffkochern in verschiedenen Größen und Ausführungen, die für jedes Bedürfnis geeignet sind. Entdecken Sie jetzt unsere Vielfalt an Mehrstoffkochern und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    },
+                    {
+                        "title": "Sturmkocher und Spirituskocher",
+                        "text": "<a href=\"/kategorie/sturmkocher-und-spirituskocher/\" title=\"Sturmkocher und Spirituskocher\">Sturmkocher und Spirituskocher</a> sind die perfekte Wahl für Abenteuerlustige, die unabhängig von Strom und Gas sein möchten. Unser Sortiment umfasst eine breite Auswahl an Sturmkochern und Spirituskochern, die für jedes Bedürfnis geeignet sind. Entdecken Sie jetzt unsere Vielfalt an Sturmkochern und Spirituskochern und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    },
+                    {
+                        "title": "Trinkwasseraufbereitung",
+                        "text": "<a href=\"/kategorie/trinkwasseraufbereitung/\" title=\"Trinkwasseraufbereitung\">Trinkwasseraufbereitung</a> ist ein wichtiger Bestandteil für ein sicheres und hygienisches Campingerlebnis. Unser Sortiment umfasst eine breite Auswahl an Trinkwasseraufbereitungsprodukten, die für jedes Bedürfnis geeignet sind. Entdecken Sie jetzt unsere Vielfalt an Trinkwasseraufbereitungsprodukten und bereiten Sie sich auf Ihr nächstes Camping-Abenteuer vor."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Shop für Camping Kocher",
@@ -118,46 +182,53 @@
         "defaultTitle": "$PRODUKT | Outdoor Küchenzubehör",
         "defaultMetaDescription": "$PRODUKT online bestellen für dein Outdoor Kocherlebnis. Best-Preis-Garantie. Alle Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Outdoor Küchenzubehör",
         "defaultMetaDescription": "Alle Produkte aus der Kategorie $KATEGORIE. Ausschließlich getestete $KATEGORIE Artikel zu günstigen Preisen im Internet bestellen. Produke auf Lager.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | Outdoor Küchenzubehör",
         "defaultMetaDescription": "Alle Produkte vom Anbieter $HERSTELLER findest du günstig in unserem Online Shop. Damit du beim Camping vernünftig kochen kannst. Alle Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Kochen beim Camping",
